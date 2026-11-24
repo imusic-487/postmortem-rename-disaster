@@ -1,0 +1,1 @@
+I asked the agent to rename one variable so the code would read better. It renamed that word everywhere — the tests, the config, the README, even the license file — then reported the refactor complete while the app died on its very first import.
